@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NewRecyclerView</string>
+    <string-array name="city_names">
+        <item>"Bora bora"</item>
+        <item>"Canada"</item>
+        <item>"Dubai"</item>
+        <item>"Hongkong"</item>
+        <item>"Iceland"</item>
+        <item>"India"</item>
+        <item>"Kenya"</item>
+        <item>"London"</item>
+        <item>"Switzerland"</item>
+        <item>"Sydney"</item>
+    </string-array>
+</resources>
